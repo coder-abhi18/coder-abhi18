@@ -1,5 +1,5 @@
 
-## Hola, I'm [Avinash Kumar!](https://coderavi.github.io) 👋
+## Hi, I'm [Abhishek Gupta!](https://coderavi.github.io) 👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 
