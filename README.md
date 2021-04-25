@@ -3,7 +3,7 @@
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-abhi18&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-abhi18&label=Profile views&color=green&style=plastic" alt="Coder-abhi18" /> </p>
 <a href="https://twitter.com/cricketerabhi18">
   <img align="left" alt="Coder Abhi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -64,11 +64,11 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
   <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>macOS Big Sur 11.1</li>
-	    <li><b>Laptop: </b> Macbook Air 2019</li>
-  	    <li><b>Browser: </b> Safari & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
-            <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
+  	    <li><b>OS:</b>Windows 10 home</li>
+	    <li><b>Laptop: </b>Lenovo ideapad </li>
+  	    <li><b>Browser: </b>Chrome</li>
+	    <li><b>Code Editor:</b> VSCode ❤, jupyter</li>
+            <li><b>Cleverly using command prompt Terminal, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
