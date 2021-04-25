@@ -38,7 +38,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Coder_Abhi](https://twitter.com/Coder_Abhi) , [Youtube - @coderabhi](https://youtube.com/mtechviral)
 - 😃 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+-  Fun fact: I spend almost 4 hours listening songs everyday and 2 hours for gaming.
 
 [![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
 [![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
