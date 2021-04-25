@@ -22,8 +22,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.facebook.com/profile.php?id=100038743509503">
   <img align="left" alt="Coder Abhi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCigOmAMmx2bDmu_eVe3iMkg">
+  <img align="left" alt="Coder Abhi's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
