@@ -36,7 +36,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - 😉 I’m looking to contribute on [Stackoverflow](https://youtube.com/mtechviral).
 - 😌 I’m looking for help with BabaKaBazzar Deployment work.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Coder_Abhi](https://twitter.com/Coder_Abhi) , [Youtube - @coderabhi](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @cricketerabhi18](https://twitter.com/cricketerabhi18) , [Youtube - @cricketerabhi18](https://youtube.com/mtechviral)
 - 😃 Pronouns: He/His
 - 😜Fun fact: I spend almost 4 hours listening songs everyday and 2 hours for gaming.
 
