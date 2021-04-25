@@ -16,8 +16,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://stackoverflow.com/users/15208988/abhishek-gupta">
   <img align="left" alt="Coder Abhi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/coder_avi/">
-  <img align="left" alt="Coder Avi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/abhishekgupta11026/">
+  <img align="left" alt="Coder Abhi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/coderavinash/">
   <img align="left" alt="Coder Avi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
