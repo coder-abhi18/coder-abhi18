@@ -44,7 +44,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 [![Linkedin: CoderAbhi](https://img.shields.io/badge/-Coder_abhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-gupta-1573a6193/)](https://www.linkedin.com/in/abhishek-gupta-1573a6193/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/abhishekgupta11026/) 
 [![GitHub CoderAbhi](https://img.shields.io/github/followers/CoderAbhi?label=follow&style=social)](https://github.com/coder-abhi18/)
-[![website](https://img.shields.io/badge/Portfolio-coderabhi.tech-2648ff?style=flat-square&logo=google-chrome)](https://coderabhi.tech/)
+[![website](https://img.shields.io/badge/Portfolio-coderAbhi.tech-2648ff?style=flat-square&logo=google-chrome)](https://coderabhi.tech/)
 
 
 **Languages and Tools:**  
