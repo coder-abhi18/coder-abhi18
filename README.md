@@ -54,7 +54,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.sourcerer.io%2Fbuilding-a-website-with-c-db942c801aee&psig=AOvVaw3BbhrcD09WPc663TyPMYVY&ust=1632598318829000&source=images&cd=vfe&ved=2ahUKEwiG3o3orJjzAhXJbisKHXynDOgQr4kDegUIARDZAQ"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Cpp/Cpp.png"></code>
 
 <a href="https://github.com/coder-abhi18">
 <img height="115em"src="https://github-readme-stats.vercel.app/api?username=coder-abhi18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
