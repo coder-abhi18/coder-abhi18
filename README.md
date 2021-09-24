@@ -71,8 +71,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
   	    <li><b>OS:</b>Windows 11 home</li>
 	    <li><b>Laptop: </b>Lenovo ideapad </li>
   	    <li><b>Browser: </b>Chrome, Mozilla Firefox</li>
-	    <li><b>Code Editor:</b> VSCode ❤, jupyter</li>
-            <li><b>Cleverly using command prompt Terminal, python & git</li>
+	    <li><b>Code Editor:</b> VSCode ❤, Jupyter, IntelliJ IDEA</li>
+            <li><b>Cleverly using Command prompt Terminal, Python & Git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 <div align="center">
