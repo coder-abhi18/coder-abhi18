@@ -68,7 +68,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
   <b>⚙️ Things I use to get stuff done:</b></summary>
   	<ul>
-  	    <li><b>OS:</b>Windows 10 home</li>
+  	    <li><b>OS:</b>Windows 11 home</li>
 	    <li><b>Laptop: </b>Lenovo ideapad </li>
   	    <li><b>Browser: </b>Chrome</li>
 	    <li><b>Code Editor:</b> VSCode ❤, jupyter</li>
