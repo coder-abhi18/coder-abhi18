@@ -54,9 +54,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Visual Studio Code/Visual Studio Code.png"></code>
-int width, height;
-unsigned char * image = tinyimg::load("image.bmp", width, height, TINYIMG_LOAD_RGB);
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png"></code>
 
 <a href="https://github.com/coder-abhi18">
 <img height="115em"src="https://github-readme-stats.vercel.app/api?username=coder-abhi18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
