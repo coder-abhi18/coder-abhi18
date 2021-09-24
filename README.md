@@ -55,13 +55,13 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
-<a href="https://github.com/SigmaRajput">
-<img height="115em"src="https://github-readme-stats.vercel.app/api?username=SigmaRajput&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SigmaRajput&layout=compact&langs_count=6&theme=algolia"/>
-<img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=SigmaRajput&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
+<a href="https://github.com/coder-abhi18">
+<img height="115em"src="https://github-readme-stats.vercel.app/api?username=coder-abhi18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coder-abhi18&layout=compact&langs_count=6&theme=algolia"/>
+<img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-abhi18&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
-![SigmaRajput's github activity graph](https://activity-graph.herokuapp.com/graph?username=SigmaRajput&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+![coder-abhi18's github activity graph](https://activity-graph.herokuapp.com/graph?username=coder-abhi18&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
 
 
